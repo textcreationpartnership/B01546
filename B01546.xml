@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial account of the several fires in London, Westminster, Southwark, and the places adjacent. Begun and carried on by papists, for the promoting their damnable plot and conspiracy for subverting the government, and destroying the Protestant religion; with the several ways and methods practiced by them in manageing their horrid designs of fire and desolation. / Discovered by Cap. William Bedlow who was formerly engaged with them in those wicked practices.</title>
+            <author>Bedloe, William, 1650-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01546</idno>
+            <idno type="STC">Wing B1676A</idno>
+            <idno type="STC">ESTC R188992</idno>
+            <idno type="EEBO-CITATION">47012323</idno>
+            <idno type="OCLC">ocm 47012323</idno>
+            <idno type="VID">174285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174285)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2681:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial account of the several fires in London, Westminster, Southwark, and the places adjacent. Begun and carried on by papists, for the promoting their damnable plot and conspiracy for subverting the government, and destroying the Protestant religion; with the several ways and methods practiced by them in manageing their horrid designs of fire and desolation. / Discovered by Cap. William Bedlow who was formerly engaged with them in those wicked practices.</title>
+                  <author>Bedloe, William, 1650-1680.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Godfrey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: University of London Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish plot, 1678.</term>
+               <term>Anti-catholicism --  England.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174285:1"/>
+            <p>An Impartial ACCOUNT Of the Several FIRES IN London, Weſtminſter, <hi>SO<g ref="char:V">Ʋ</g>THWARK,</hi> AND The Places Adjacent.</p>
+            <p>Begun and carried on by <hi>Papiſts,</hi> for the Promoting their Damnable PLOT and Conſpi<g ref="char:EOLhyphen"/>racy for Subverting the <hi>Government,</hi> and Deſtroy<g ref="char:EOLhyphen"/>ing the <hi>Proteſtant Religion;</hi> with the ſeveral Ways and Methods practiſed by them in Manage<g ref="char:EOLhyphen"/>ing their Horrid <hi>Deſigns</hi> of Fire and Deſolation.</p>
+            <p>Diſcovered by Cap. William Bedlow Who was formerly engaged with them in thoſe Wicked Practices.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Godfrey.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:174285:2"/>
+            <head>An Impartial Account of the <hi>FIRES</hi> of <hi>London,</hi> &amp;c.</head>
+            <p>AMong the ſeveral other Curſed ways and means, whereby the <hi>Papiſts</hi> have endeavoured to enſlave this Nation, they have uſed none more often, than this of <hi>Firing Towns and Cities;</hi> and among the reſt, this Famous City of <hi>London</hi> has had the unhappineſs to taſte moſt ſeverely of their Burning Malice and Fury.</p>
+            <p>For beſides the Burning of <hi>London</hi> in 1666, which was ſo apparently diſcovered to the Parliament then in being by the Voluntary Confeſſion of <hi>Robert Hubert</hi> a <hi>French<g ref="char:EOLhyphen"/>man,</hi> who Fired the <hi>Bakers</hi> Houſe in <hi>Pudding-lane,</hi> and whoſe Conſcience was ſo ſtarttled at the vaſt Deſolati<g ref="char:EOLhyphen"/>ons and Ruines he had occaſioned thereby, that he vo<g ref="char:EOLhyphen"/>luntarily confeſſed the ſame, for which he was deſer<g ref="char:EOLhyphen"/>vedly Executed, and the abundant Teſtimony of others to confirm the ſame; and among the reſt, one Mr. <hi>Light</hi> of <hi>Ratcliff,</hi> Informed the Committee of the Houſe of Commons, that having diſcourſe with one Mr <hi>Richard Langhorn</hi> of the <hi>Inner-Temple</hi> Barriſter, reputed a zea<g ref="char:EOLhyphen"/>lous <hi>Papiſt,</hi> about <hi>February</hi> before the Burning of <hi>London,</hi> Mr <hi>Langhorn</hi> took him by the hand, and ſaid to him, <hi>You expect great things in Sixty Six, and think that</hi> Rome <hi>will be deſtroyed, but what if it be</hi> London; which is a plain demonſtration of their intended Damnable deſign, and this is that very <hi>Langhorn</hi> who was laſt Executed for <hi>Conſpiring the death of the King, and the overthrow of the Proteſtant Religion and Gove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nment.</hi>
+            </p>
+            <p>They ſtill proceeded to perpetrate more Horrid Miſ<g ref="char:EOLhyphen"/>chiefs and Villanies both in <hi>Southwark,</hi> and other places for theſe Thirteen years laſt paſt, both in the City and Country; and this they have done by ſeveral ways and Methods.</p>
+            <p>As the Firing of <hi>London</hi> in 1666, was effected, by <hi>Fire-balls</hi> put at the end of a Pole, and ſo thruſt in at a hole
+<pb n="3" facs="tcp:174285:3"/>or window; and ſometimes by flinging the ſaid <hi>Fire-balls</hi> and other <hi>Combuſtible Matter</hi> into Cellers through the Bars or Grates of Houſes, and thus was that Great Fire in <hi>Southwark</hi> effected, which Burnt down ſo many hun<g ref="char:EOLhyphen"/>dred Houſes; and by taking opportunity of the Conſter<g ref="char:EOLhyphen"/>nation and Hurry of the People, they ſtole their goods as well as burnt their Houſes, carrying away from <hi>South<g ref="char:EOLhyphen"/>wark</hi> to <hi>Somerſet-houſe,</hi> their place of Rendezvous, the value of Four thouſand pounds in Money and Goods, and in the fire of <hi>London</hi> above ſixteen Thouſand pounds value.</p>
+            <p>They ſtill continued their Burning, as at <hi>Wapping,</hi> where there were abundance of <hi>Houſes</hi> burnt; at the <hi>Temple</hi> in <hi>White-Fryers,</hi> St. <hi>Pauls Church-yard, Fetter-lane,</hi> neer <hi>New-Inne, Ship yard, Southampton-Buildings,</hi> at the <hi>Water-houſe,</hi> in the <hi>Minories;</hi> and many other places; endeavouring by all manner of ways to impo<g ref="char:EOLhyphen"/>veriſh and deſtroy this Noble <hi>City.</hi>
+            </p>
+            <p>Another way of firing they had, by throwing <hi>Fire-balls</hi> in at <hi>Glaſs-windows,</hi> as they did at a <hi>Black-ſmiths Houſe</hi> in <hi>Black-Friers.</hi> Another was by ſetting their own <hi>Lodgings</hi> on <hi>Fire,</hi> as the <hi>French</hi> Man in <hi>Shoe-lane</hi> did in the time of the Burning of <hi>London:</hi> and as ſome others did at <hi>Saf<g ref="char:EOLhyphen"/>fron-hill</hi> a while after. Another way was by hiring <hi>Cellers</hi> in dangerous places, and then filling them with <hi>Combu<g ref="char:EOLhyphen"/>ſtible Matter</hi> and firing them; which was one of the ways that they adviſed me to practice. Another was by firing <hi>Hay-lofts,</hi> as they did in <hi>Smith-field</hi> once or twice. Another was by Strangers pretending to come of <hi>Errands</hi> to <hi>Lodgings</hi> and <hi>Chambers:</hi> and in this manner was the laſt dreadful Fire in the <hi>Temple.</hi>
+            </p>
+            <p>Another way was by getting into empty <hi>Houſes,</hi> and ſetting them on <hi>Fire:</hi> and this was done in <hi>Budge-Row</hi> in <hi>London.</hi> Another was by creeping into <hi>Back-yards,</hi> and firing ſtacks of <hi>Bavins, Reeds,</hi> or ſuch like ſtuff; and this was practiced at <hi>Lime-houſe.</hi> Another way was by going into <hi>Victualing-houſes,</hi> and leaving trains of <hi>Gun<g ref="char:EOLhyphen"/>powder</hi> behind them for firing; and this was done at a <hi>Cooks</hi> in <hi>Fetter-lane,</hi> and alſo in <hi>Southwark.</hi> Another way
+<pb n="4" facs="tcp:174285:4"/>was by confederating with the <hi>Servants</hi> in <hi>Houſes;</hi> and by this means one <hi>Elizabeth Oxly</hi> having dwelt a ſhort time with one Mr. <hi>Bird,</hi> an <hi>Atturney</hi> in <hi>Fetter-lane,</hi> took the opportnity when all the <hi>Family</hi> was in <hi>Bed,</hi> to ſire a large <hi>Preſs</hi> in his <hi>Cloſet,</hi> wherein were <hi>Papers</hi> and <hi>Writings</hi> kept; and a while after ran up to her <hi>Maſter</hi> and told him the <hi>Houſe</hi> was on fire; and then running down ſhe let in the <hi>Watch:</hi> But it being obſerved that her <hi>Cloths</hi> were pack'd up, and giving ſeveral other marks of ſu<g ref="char:EOLhyphen"/>ſpicion, ſhe was charged to be acceſſary to it; and after a ſmall time of <hi>Examination</hi> ſhe confeſſed the fame, de<g ref="char:EOLhyphen"/>claring that ſhe was hired to do it by one Mr. <hi>Stubbs,</hi> who engaged to give her <hi>Five pounds</hi> for doing the ſame Upon this <hi>Stubbs</hi> was ſearched for and taken, who con<g ref="char:EOLhyphen"/>feſſed that it was true, that he had perſwaded her to do it, and was to give her Five <hi>Guinneys</hi> to perform it, be<g ref="char:EOLhyphen"/>ſides Five <hi>Shillings</hi> which he had given her before-hand; and ſaid further, that one Father <hi>Gifford</hi> (the ſame Per<g ref="char:EOLhyphen"/>ſon whom I was to have aſſiſted in ſuch <hi>wicked Practices,</hi> and was his <hi>Confeſſor</hi>) had engaged him in the buſineſs, by telling him it was no ſin at all to fire the <hi>Houſes</hi> of <hi>Hereticks;</hi> and that the ſaid <hi>Gifford</hi> had promiſed him a <hi>Hundred pound</hi> for the ſame, telling him he ſhould have the <hi>Money</hi> from the <hi>Church.</hi> He alſo declared that he uſed to meet the ſaid <hi>Gifford</hi> and two other <hi>Perſons</hi> in St. <hi>James</hi>'s-<hi>Fields,</hi> in the dark of the Evening, to conſult of theſe matters.</p>
+            <p>And in order to make theſe <hi>Fires</hi> more deſtructive and ruinous, they choſe out the moſt cloſe and dangerous places to begin their <hi>Villany,</hi> and gave inſtructions to their curſed <hi>Accomplices</hi> accordingly, as among old <hi>Houſes</hi> and <hi>Sheds,</hi> where <hi>Engines</hi> cannot play; and to fire <hi>Wa<g ref="char:EOLhyphen"/>ter-houſes,</hi> and to get the <hi>New River</hi> Water ſtopp'd during that time the Fire continued. To have ſome of their <hi>Friends</hi> about the <hi>Fire,</hi> who might perſwade the <hi>Magi<g ref="char:EOLhyphen"/>ſtrates</hi> to blow up <hi>Houſes,</hi> where it was not neceſſary, or rather, where it might do more harm than good, by opening a paſſage to the Fire. To have others of the Par<g ref="char:EOLhyphen"/>ty,
+<pb n="5" facs="tcp:174285:5"/>who under pretence of helping to quench the Fire, may throw their <hi>Fire-balls</hi> to increaſe it in the <hi>Houſes</hi> next adjoyning, and to break down the <hi>Roofs</hi> of the <hi>Win<g ref="char:EOLhyphen"/>dows</hi> to let in the Fire more eaſily. To have ſome others attending, who ſhould cry out againſt the <hi>French</hi> and <hi>Papiſts;</hi> and ſhould mightily pity the <hi>People,</hi> thereby in<g ref="char:EOLhyphen"/>ſinuating themſelves ſo as to be truſted with the removing of Goods, and ſo take the opportunity of ſtealing and cheating them of their <hi>Goods;</hi> and ſometimes to fire <hi>Houſes</hi> at a diſtance, as they find opportunity. And laſtly, To ob<g ref="char:EOLhyphen"/>ſerve the <hi>Wind</hi> and <hi>Tide</hi> in all their <hi>Attempts:</hi> as alſo <hi>Froſts</hi> and very dry <hi>Seaſons;</hi> and to choſe <hi>Sundays</hi> for doing their <hi>Work,</hi> becauſe then there is little <hi>Water</hi> to be had. By theſe <hi>wretched Courſes</hi> have they endeavoured to advance their <hi>curſed Intereſt:</hi> And let us not be too ſecure, for no queſtion the <hi>Plot,</hi> though in part diſcovered, yet is ſtill going on; and theſe are are not the laſt Fires we muſt expect; and if the <hi>Great Deſign</hi> do not miſcarry, they hope to have our <hi>Blood</hi> too, by <hi>Maſſacring</hi> us in the hurry and confuſion that dread<g ref="char:EOLhyphen"/>ful Fires uſually put People unto.</p>
+            <p>But to proceed to what is of my own knowledge, It was my chance to be at <hi>Paris</hi> in the Month of <hi>June</hi> 1676, at the <hi>Engliſh Convent</hi> of <hi>Benedictine Monks,</hi> with whom, upon di<g ref="char:EOLhyphen"/>vers occaſions, I had much ingratiated my ſelf, ſo that they made me one of their <hi>Confidents;</hi> among other Diſ<g ref="char:EOLhyphen"/>courſes, they talked af a great Deſign carrying on, <hi>For ſubverting the Proteſtant Religion, and introducing Popery into England.</hi> They fell to debate the ſeveral ways and means preparatary to it, and what methods were beſt to be uſed to accompliſh it; but becauſe they did nothing without advice of their Fellow-Traytors in <hi>England,</hi> one of them produced divers Letters from <hi>London;</hi> wherein there were ſeveral particulars concerning the Firing of the City and Suburbs of <hi>London;</hi> and many other of the chief Cities and Towns in <hi>England.</hi> And it was concluded by them that the moſt effectual means to make way for their Deſign, was to weaken and ruin the ſaid City of <hi>London;</hi> and ſome of them wickedly gave God thanks that their Attempts of
+<pb n="6" facs="tcp:174285:6"/>that nature had ſucceeded ſo well already; and that though it were ſo nobly and unexpectedly re-built, yet many of the Inhabitants ſtill felt the effects of that Deſolation.</p>
+            <p>After this and much more diſcourſe of this kind, which was managed with great zeal and earneſtneſs, they at laſt asked me, <hi>Whether I would aſſiſt them in carrying on this buſineſs, as I had done before in the other part?</hi> To which I ſeem'd readily to conſent, pretending that I was able to be very ſerviceable to them in it, as being very well acquainted with all parts of the City of <hi>London,</hi> and could therefore direct them to thoſe places where the greateſt miſchief was like to be done; and that I had knowlege alſo of ſeveral of the Chief and moſt Trading Towns in <hi>England,</hi> whereby I was in a Capacity to manage ſuch af<g ref="char:EOLhyphen"/>fairs with more ſecurity and ſucceſs than any other man; by ſuch diſcourſes as theſe, they were ſo well ſatisfied of my Abilities in this kind, That it was agreed amongſt them, that I ſhould go for <hi>England,</hi> and ſhould there be joyned with Father <hi>Gifford</hi> before-mentioned, for the car<g ref="char:EOLhyphen"/>rying on theſe Burning Attempts. This Father <hi>Gifford</hi> was a <hi>Jeſuit,</hi> and as I underſtood by the Letters I had ſeen, he was one of thoſe that was very Active in carrying on the <hi>Dreadful Fire in London,</hi> in the year 1666, and alſo (as they Reported) the Great Fire in <hi>Southwark,</hi> which Fire happened not above a Month before we had the forego<g ref="char:EOLhyphen"/>ing Diſcourſe together, and that he had attempted to Fire divers other places at ſeveral times, though he had miſ<g ref="char:EOLhyphen"/>ſed in the performance of it.</p>
+            <p>At this great Conſultation of the <hi>Benedictines,</hi> ſeveral Letters were produced, as is mentioned before, all tending to the way and manner of burning the City of <hi>London</hi> and its Suburbs, and ſeveral other Towns in <hi>England,</hi> and they were very earneſt with me. that as ſoon as I came to <hi>Eng<g ref="char:EOLhyphen"/>land</hi> I ſhould be very careful and diligent in Executing the ſame; and that I ſhould receive all neceſſary Orders, Encouragement, and Supplies, to put me into a Capacity of Carrying things on. I afterwards went into <hi>Spain,</hi> and continuing there ſome time, I came at length to <hi>London,</hi>
+               <pb n="7" facs="tcp:174285:7"/>which was in the Year 1678; and a while after there was a Conſultation held by <hi>Gifford</hi> and ſeveral other Prieſts and Jeſuits, for Carrying on the buſineſs of Firing; which Conſults they uſually kept every Week upon that Ac<g ref="char:EOLhyphen"/>count.</p>
+            <p>In this Meeting it was reſolved, That <hi>Wapping</hi> and <hi>Lime Houſe</hi> ſhould be firſt Fired, by that means if poſſible to burn the Veſſels and Ships in the River of <hi>Thames.</hi> To which end ſeveral of thoſe that were at this Conſultation, were to be aſſiſting there, ſome by Land, and others by Water, who were to fire thoſe Ships that lay fartheſt from Land, and to cut the Cables of Ships, that they might fall foul one upon another; and in purſuit of this, <hi>Lime Houſe</hi> was really fi<g ref="char:EOLhyphen"/>red, though it had not that diſmal Effect which they expected, ſome of the Conſpirators having faled of being preſent there to manage it. After this <hi>Gifford</hi> and my ſelf went upon the <hi>Thames</hi> ſeveral nights, and eſpecially about <hi>London Bridg,</hi> to take exact notice of the loweſt Rooms, Cellars, and Windows, and what Places were filled with the moſt Combuſtible ſtuff, whereby they might have opportunity to burn down the Bridge, which they thought would be moſt eaſie to Effect at the time of High-Water, when they might bring a Boat al<g ref="char:EOLunhyphen"/>moſt equal with thoſe Windows and Cellers, and thereby more Conveniently throw in their Fire Bals; there was alſo mention made of firing the <hi>Towe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>London,</hi> but Father <hi>Harcourt</hi> (who was lately Executed for High Treaſon) told them, that they were aſſured of that place within, and therefore adviſed the preſerving of it, as be<g ref="char:EOLhyphen"/>ing for their Benefit and advantage.</p>
+            <p>Briefly, for near a year before I diſcovered this damna<g ref="char:EOLhyphen"/>ble Deſign, I was imployed by all ways and means imagi<g ref="char:EOLhyphen"/>nable, to endeavour the ſetting a Fire <hi>London,</hi> and other places; and the chief management of all their intregues of this kind, was committed to my Conduct, but the <hi>Jeſuits</hi> were to be my Overſeers, that I might not want Combuſtible Matter ſufficient to carry on the Work; and in <hi>Auguſt</hi> laſt I deſigned to take ſeveral Cellers and Ware<g ref="char:EOLhyphen"/>houſes, where I might ſtow Coals, Wood, and other things fit for our uſe, of all which I bought ſeveral quantities, and alſo ſeveral Barrels of Gun powder, which I ordered to be placed in ſeveral parts of the City and Suburbs: As for Example, At my own Lodgings in <hi>Eſſex Garden,</hi> at the
+<pb n="8" facs="tcp:174285:8"/>back-door of the <hi>Palſgrave</hi>'s Head Tavern near the <hi>Temple,</hi> I laid in a great quantity of Coals, and ſome hundreds of Faggots, which was deſigned for burning the <hi>Temple,</hi> with the Writings and Records therein. I laid in another parcel in <hi>Brewers yard</hi> in the <hi>Strand</hi> in a Cellar, and ſome other Old Buildings there; the Cellar belongs to Mr. <hi>Morgan</hi> at the <hi>Red Bible</hi> in <hi>Bedford ſtreet.</hi> Another parcel of Faggots and Coals I laid at Mr. <hi>Browns</hi> in <hi>White-Friers,</hi> and intended to haue ſent ſome more into an old Cellar of Mr. <hi>Withers</hi> at the <hi>Plow</hi> in <hi>Seething-lane</hi> near <hi>Tower-hill,</hi> and others into <hi>Red-croſs-ſtreet, Biſhopſgate-ſtreet, White-croſs-ſtreet, Queen<g ref="char:EOLhyphen"/>hithe;</hi> and many other places about this Town: which I am ready to atteſt the truth of when required thereto by Authority.</p>
+            <p>The laſt Conſultation we had about theſe Deſigns of Firing, was in <hi>Auguſt</hi> laſt, 1678, and others were then Contriving and Conſpiring, <hi>To take the King out of the way</hi> (which is a ſoft word to expreſs Trea<g ref="char:EOLhyphen"/>ſon and Murder) and thoſe other of the Nobility and Magiſtrates, that might obſtruct their buſineſs, which was to have been firſt done, and then my Firing of <hi>London</hi> was to have ſucceeded; and in the hor<g ref="char:EOLhyphen"/>rour of that dreadful Conflagration, all the <hi>Papiſts</hi> were to have ap<g ref="char:EOLhyphen"/>peared in Arms, and declared openly for the <hi>Pope.</hi>
+            </p>
+            <p>Many other Deſigns have been Contrived, in order to the carrying on theſe Affairs to Fire many places, and ſeveral Perſons have been Im<g ref="char:EOLhyphen"/>ployed therein, but few of them acquainted with each other, ſome of which Fires have had Effect, and others have failed. But theſe Wretch<g ref="char:EOLhyphen"/>es are never weary of committing wickedneſs, and will therefore never ceaſe Contriving our Deſtruction, by all ways and means Ima<g ref="char:EOLhyphen"/>ginable; having all their Engines ready, awaiting only the giving the Traiterous and Dreadful Stroke againſt the Life of our Gracious Soveraign, whom we hope God will ever defend from their Curſed Malice and Villany. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
